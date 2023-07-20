@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: 나의 취미
+subtitle: 
+author: 조윤성
+categories: 취미
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -15,8 +15,8 @@ banner:
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  subheading_style: "color: gold"
-tags: jekyll theme yat
+  subheading_style: "color: blue"
+tags: cho's hobby
 sidebar: []
 ---
 
