@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 나의 취미
-subtitle: 
+subtitle:
 author: 조윤성
 categories: 취미
 banner:
